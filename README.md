@@ -1,4 +1,4 @@
-## Hi👋 I'm Hasyim Sri Wahyudi, Front-End Developer.
+## Hi👋 I'm Hasyim Sri Wahyudi
 
 I'm Hasyim Sri Wahyudi, Informatics Student at Universitas AMIKOM Yogyakarta, interested in Front-End Developer, Competitive Programming, & Machine Learning.
 
